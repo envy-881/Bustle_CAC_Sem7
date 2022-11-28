@@ -20,8 +20,8 @@ Project is created with:
 
 ## Files Directory
 * HTML files - Frontend
-  * NoCodeFile.html - This file is the file linked in my app prototype. It had written content and charts, with no code being displayed. [Preview of HTML](https://htmlpreview.github.io/?https://github.com/envy-881/CAC_Sem7_PreThesis/blob/main/NoCodeFile.html)
-  * CodeFile.html - This file is an explanation of the code written to produce the charts. It includes the code chunks and output. [Preview of HTML](https://htmlpreview.github.io/?https://github.com/envy-881/CAC_Sem7_PreThesis/blob/main/CodeFile.html)
+  * NoCodeFile.html - This file is the file linked in my app prototype. It had written content and charts, with no code being displayed. [Preview of HTML](https://htmlpreview.github.io/?https://github.com/envy-881/Bustle_CAC_Sem7/blob/main/NoCodeFile.html)
+  * CodeFile.html - This file is an explanation of the code written to produce the charts. It includes the code chunks and output. [Preview of HTML](https://htmlpreview.github.io/?https://github.com/envy-881/Bustle_CAC_Sem7/blob/main/CodeFile.html)
   
 * R Markdown files - Backend
   * NoCodeFile.rmd - The RMarkdown file for the HTML file of the same name.
