@@ -12,7 +12,7 @@ In this repository you will find all the files used in this project.
 ## General Info
 This is a repository of the data files that were used and created to visualise the population distribution in Bangalore and the distribution of bus stops across the city. 
 
-This is part of the7th Semester Pre-Thesis project.
+This is part of the 7th Semester Pre-Thesis project.
 	
 ## Technologies
 Project is created with:
@@ -42,7 +42,7 @@ Project is created with:
 * [2016 Ward Road Lengths](https://data.opencity.in/dataset/bengaluru-bbmp-ward-details/resource/bbmp-ward-area-and-road-length)
 
 ## Acknowledgements
-I would like to give credit to the following sitesfor providing information and resources for this project:
+I would like to give credit to the following sites for providing information and resources for this project:
 * Stack Overflow - Troubleshooting 
 * RDocumentation - Information and syntaxes
 * R Graph Gallery - Information and code chunks
